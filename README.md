@@ -18,6 +18,7 @@ Paper, Code, and Other Resources about Semantic Segmentation.
 ### ICNet
 ### LinkNet
 ### UNet
+### Not all pixels are equal
 ### Tiramisu
 The One Hundered Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
 
