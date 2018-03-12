@@ -5,21 +5,20 @@ Paper, Code, and Other Resources about Semantic Segmentation.
 # Semantic Image Segmentation
 
 ### Fully Convolutional Network for Semantic Segmentation. CVPR 2015, TPAM I2016 [Paper] [Code] 
-### DeepLab v1
-### CRFasRNN
-### ParseNet. ICLR 2016 [Paper][Code]
-### DeepLab v2
-### DeepLab v3
-### DeepLab v3+
-combine spatial pyramid pooling module and encoder-decoder structure. 
-### SegNet
-### Deconvolution
-### ENet
-### RefineNet
-### PSPNet
-### ICNet
-### LinkNet
-### UNet
+### DeepLab v1: Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs. ICLR 2015
+### CRFasRNN: Conditional Random Fields as Recurrent Neural Networks. ICCV 2015.
+### ParseNet: Looking Wider to See Better. ICLR 2016 [Paper][Code]
+### DeepLab v2: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. TPAMI 2017. 
+### DeepLab v3: Rethinking Atrous Convolution for Semantic Image Segmentation
+### DeepLab v3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation. 
+* combine spatial pyramid pooling module and encoder-decoder structure. 
+### SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation. TPAMI 2017.
+### ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation. 
+### RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation. 
+### PSPNet: Pyramid Scene Parsing Network.
+### ICNet for Real-Time Semantic Segmentation on High-Resolution Images. 
+### LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
+### UNet: Convolutional Networks for Biomedical Image Segmentation
 ### Not all pixels are equal
 ### Tiramisu
 The One Hundered Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation
@@ -30,7 +29,7 @@ The One Hundered Layers Tiramisu: Fully Convolutional DenseNets for Semantic Seg
 
 ## Survey & Review
 1. A Review on Deep Learning Techniques Applied to Semantic Segmentation 
-2. 
+2. Real-time semantic segmentation comparative survey. 
 
 # Semantic Video Segmentation
 
